@@ -1303,6 +1303,10 @@ body:not(.modal-open){
   .bigBg1 {
   height: 140vh;
 }
+  .img-responsive {
+    margin-left: auto !important; 
+    margin-right: auto !important; 
+  }
 }
 @media (max-width: 415px){
   .img-responsive {
