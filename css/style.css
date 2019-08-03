@@ -1302,6 +1302,11 @@ body:not(.modal-open){
   height: 140vh;
 }
 }
+@media (max-width: 415px){
+  .img-responsive {
+  transform: scale(0.5);
+  }
+}
 
 @media (min-width: 992px){
 
@@ -1321,7 +1326,7 @@ body:not(.modal-open){
   .imgBlock {
   display: block;
 }
-
+}
   /* Navigation */
 
 
