@@ -1312,6 +1312,9 @@ body:not(.modal-open){
   .img-responsive {
   transform: scale(0.5) !important ;
   }
+  .ds {
+    font-size: 15px;
+  }
 }
 
 @media (min-width: 992px){
